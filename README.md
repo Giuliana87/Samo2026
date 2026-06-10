@@ -5,7 +5,7 @@
 Exercise material for the hands-on session accompanying the talk:
 
 > *Global Sensitivity Analysis for Robust XAI: Quantifying Clinical Risk and Prediction Instability in Dermoscopic Image Classification*
-> Vannucci, Coppolecchia & Siciliano (2026) — **Risk Analysis** (accepted March 2026)
+> Vannucci, Coppolecchia & Siciliano (2026) — **Risk Analysis** 
 
 ---
 
